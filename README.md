@@ -18,3 +18,9 @@ This project analyzes historical air quality data for Delhi, explores trends, an
 - Libraries: pandas, numpy, seaborn, matplotlib, scikit-learn
 
 ---
+
+## Snippets 
+
+https://github.com/ADITIBANSAL06/Air-Pollution-In-Delhi/blob/main/air%20pollution%20graph%20ss(1).jpeg
+
+https://github.com/ADITIBANSAL06/Air-Pollution-In-Delhi/blob/main/air%20pollution%20graph%202.jpeg
