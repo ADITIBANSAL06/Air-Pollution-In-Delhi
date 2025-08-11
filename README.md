@@ -18,9 +18,3 @@ This project analyzes historical air quality data for Delhi, explores trends, an
 - Libraries: pandas, numpy, seaborn, matplotlib, scikit-learn
 
 ---
-
-##  Installation
-```bash
-git clone https://github.com/yourusername/Air-Pollution-Delhi.git
-cd Air-Pollution-Delhi
-pip install -r requirements.txt
